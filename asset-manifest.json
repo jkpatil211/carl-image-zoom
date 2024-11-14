@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/carl-image-zoom/static/css/main.f855e6bc.css",
-    "main.js": "/carl-image-zoom/static/js/main.ef27b928.js",
+    "main.js": "/carl-image-zoom/static/js/main.e851e59a.js",
     "index.html": "/carl-image-zoom/index.html",
     "main.f855e6bc.css.map": "/carl-image-zoom/static/css/main.f855e6bc.css.map",
-    "main.ef27b928.js.map": "/carl-image-zoom/static/js/main.ef27b928.js.map"
+    "main.e851e59a.js.map": "/carl-image-zoom/static/js/main.e851e59a.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.ef27b928.js"
+    "static/js/main.e851e59a.js"
   ]
 }
