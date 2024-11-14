@@ -93,7 +93,7 @@ const ImageViewerTray = () => {
         <>
             <input type="checkbox" name="Sync" value={isSync} onChange={handleChange} /> Sync<br />
             {isSync ? 'yes' : 'no'}
-            <div style={{display: 'flex'}}>
+            <div style={{display: 'flex', justifyContent: 'center'}}>
                 <ImageViewer key="viewer1" id="viewer1" ref={view1Ref} />
                 <ImageViewer key="viewer2" id="viewer2" ref={view2Ref} />
             </div>
